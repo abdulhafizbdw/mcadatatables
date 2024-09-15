@@ -1,0 +1,7722 @@
+[
+    {
+        "NPS": "1∕8",
+        "DN": "6",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "0.405",
+        "OD_mm": "10.3",
+        "WT_in": "0.049",
+        "WT_mm": "1.24"
+    },
+    {
+        "NPS": "1∕8",
+        "DN": "6",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "0.405",
+        "OD_mm": "10.3",
+        "WT_in": "0.057",
+        "WT_mm": "1.45"
+    },
+    {
+        "NPS": "1∕8",
+        "DN": "6",
+        "Identification": "STD",
+        "Schedule": "40",
+        "OD_in": "0.405",
+        "OD_mm": "10.3",
+        "WT_in": "0.068",
+        "WT_mm": "1.73"
+    },
+    {
+        "NPS": "1∕8",
+        "DN": "6",
+        "Identification": "XS",
+        "Schedule": "80",
+        "OD_in": "0.405",
+        "OD_mm": "10.3",
+        "WT_in": "0.095",
+        "WT_mm": "2.41"
+    },
+    {
+        "NPS": "1∕8",
+        "DN": "6",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "0.405",
+        "OD_mm": "10.3",
+        "WT_in": "0.124",
+        "WT_mm": "3.15"
+    },
+    {
+        "NPS": "1∕8",
+        "DN": "6",
+        "Identification": "XXS",
+        "Schedule": "…",
+        "OD_in": "0.405",
+        "OD_mm": "10.3",
+        "WT_in": "0.19",
+        "WT_mm": "4.83"
+    },
+    {
+        "NPS": "1∕4",
+        "DN": "8",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "0.54",
+        "OD_mm": "13.7",
+        "WT_in": "0.065",
+        "WT_mm": "1.65"
+    },
+    {
+        "NPS": "1∕4",
+        "DN": "8",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "0.54",
+        "OD_mm": "13.7",
+        "WT_in": "0.073",
+        "WT_mm": "1.85"
+    },
+    {
+        "NPS": "1∕4",
+        "DN": "8",
+        "Identification": "STD",
+        "Schedule": "40",
+        "OD_in": "0.54",
+        "OD_mm": "13.7",
+        "WT_in": "0.088",
+        "WT_mm": "2.24"
+    },
+    {
+        "NPS": "1∕4",
+        "DN": "8",
+        "Identification": "XS",
+        "Schedule": "80",
+        "OD_in": "0.54",
+        "OD_mm": "13.7",
+        "WT_in": "0.119",
+        "WT_mm": "3.02"
+    },
+    {
+        "NPS": "1∕4",
+        "DN": "8",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "0.54",
+        "OD_mm": "13.7",
+        "WT_in": "0.145",
+        "WT_mm": "3.68"
+    },
+    {
+        "NPS": "1∕4",
+        "DN": "8",
+        "Identification": "XXS",
+        "Schedule": "…",
+        "OD_in": "0.54",
+        "OD_mm": "13.7",
+        "WT_in": "0.238",
+        "WT_mm": "6.05"
+    },
+    {
+        "NPS": "3∕8",
+        "DN": "10",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "0.675",
+        "OD_mm": "17.1",
+        "WT_in": "0.065",
+        "WT_mm": "1.65"
+    },
+    {
+        "NPS": "3∕8",
+        "DN": "10",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "0.675",
+        "OD_mm": "17.1",
+        "WT_in": "0.073",
+        "WT_mm": "1.85"
+    },
+    {
+        "NPS": "3∕8",
+        "DN": "10",
+        "Identification": "STD",
+        "Schedule": "40",
+        "OD_in": "0.675",
+        "OD_mm": "17.1",
+        "WT_in": "0.091",
+        "WT_mm": "2.31"
+    },
+    {
+        "NPS": "3∕8",
+        "DN": "10",
+        "Identification": "XS",
+        "Schedule": "80",
+        "OD_in": "0.675",
+        "OD_mm": "17.1",
+        "WT_in": "0.126",
+        "WT_mm": "3.2"
+    },
+    {
+        "NPS": "3∕8",
+        "DN": "10",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "0.675",
+        "OD_mm": "17.1",
+        "WT_in": "0.158",
+        "WT_mm": "4.01"
+    },
+    {
+        "NPS": "3∕8",
+        "DN": "10",
+        "Identification": "XXS",
+        "Schedule": "…",
+        "OD_in": "0.675",
+        "OD_mm": "17.1",
+        "WT_in": "0.252",
+        "WT_mm": "6.4"
+    },
+    {
+        "NPS": "1∕2",
+        "DN": "15",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "0.84",
+        "OD_mm": "21.3",
+        "WT_in": "0.065",
+        "WT_mm": "1.65"
+    },
+    {
+        "NPS": "1∕2",
+        "DN": "15",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "0.84",
+        "OD_mm": "21.3",
+        "WT_in": "0.083",
+        "WT_mm": "2.11"
+    },
+    {
+        "NPS": "1∕2",
+        "DN": "15",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "0.84",
+        "OD_mm": "21.3",
+        "WT_in": "0.095",
+        "WT_mm": "2.41"
+    },
+    {
+        "NPS": "1∕2",
+        "DN": "15",
+        "Identification": "STD",
+        "Schedule": "40",
+        "OD_in": "0.84",
+        "OD_mm": "21.3",
+        "WT_in": "0.109",
+        "WT_mm": "2.77"
+    },
+    {
+        "NPS": "1∕2",
+        "DN": "15",
+        "Identification": "XS",
+        "Schedule": "80",
+        "OD_in": "0.84",
+        "OD_mm": "21.3",
+        "WT_in": "0.147",
+        "WT_mm": "3.73"
+    },
+    {
+        "NPS": "1∕2",
+        "DN": "15",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "0.84",
+        "OD_mm": "21.3",
+        "WT_in": "0.188",
+        "WT_mm": "4.78"
+    },
+    {
+        "NPS": "1∕2",
+        "DN": "15",
+        "Identification": "XXS",
+        "Schedule": "…",
+        "OD_in": "0.84",
+        "OD_mm": "21.3",
+        "WT_in": "0.294",
+        "WT_mm": "7.47"
+    },
+    {
+        "NPS": "3∕4",
+        "DN": "20",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "1.05",
+        "OD_mm": "26.7",
+        "WT_in": "0.065",
+        "WT_mm": "1.65"
+    },
+    {
+        "NPS": "3∕4",
+        "DN": "20",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "1.05",
+        "OD_mm": "26.7",
+        "WT_in": "0.083",
+        "WT_mm": "2.11"
+    },
+    {
+        "NPS": "3∕4",
+        "DN": "20",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "1.05",
+        "OD_mm": "26.7",
+        "WT_in": "0.095",
+        "WT_mm": "2.41"
+    },
+    {
+        "NPS": "3∕4",
+        "DN": "20",
+        "Identification": "STD",
+        "Schedule": "40",
+        "OD_in": "1.05",
+        "OD_mm": "26.7",
+        "WT_in": "0.113",
+        "WT_mm": "2.87"
+    },
+    {
+        "NPS": "3∕4",
+        "DN": "20",
+        "Identification": "XS",
+        "Schedule": "80",
+        "OD_in": "1.05",
+        "OD_mm": "26.7",
+        "WT_in": "0.154",
+        "WT_mm": "3.91"
+    },
+    {
+        "NPS": "3∕4",
+        "DN": "20",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "1.05",
+        "OD_mm": "26.7",
+        "WT_in": "0.219",
+        "WT_mm": "5.56"
+    },
+    {
+        "NPS": "3∕4",
+        "DN": "20",
+        "Identification": "XXS",
+        "Schedule": "…",
+        "OD_in": "1.05",
+        "OD_mm": "26.7",
+        "WT_in": "0.308",
+        "WT_mm": "7.82"
+    },
+    {
+        "NPS": "1",
+        "DN": "25",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "1.315",
+        "OD_mm": "33.4",
+        "WT_in": "0.065",
+        "WT_mm": "1.65"
+    },
+    {
+        "NPS": "1",
+        "DN": "25",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "1.315",
+        "OD_mm": "33.4",
+        "WT_in": "0.109",
+        "WT_mm": "2.77"
+    },
+    {
+        "NPS": "1",
+        "DN": "25",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "1.315",
+        "OD_mm": "33.4",
+        "WT_in": "0.114",
+        "WT_mm": "2.9"
+    },
+    {
+        "NPS": "1",
+        "DN": "25",
+        "Identification": "STD",
+        "Schedule": "40",
+        "OD_in": "1.315",
+        "OD_mm": "33.4",
+        "WT_in": "0.133",
+        "WT_mm": "3.38"
+    },
+    {
+        "NPS": "1",
+        "DN": "25",
+        "Identification": "XS",
+        "Schedule": "80",
+        "OD_in": "1.315",
+        "OD_mm": "33.4",
+        "WT_in": "0.179",
+        "WT_mm": "4.55"
+    },
+    {
+        "NPS": "1",
+        "DN": "25",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "1.315",
+        "OD_mm": "33.4",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "1",
+        "DN": "25",
+        "Identification": "XXS",
+        "Schedule": "…",
+        "OD_in": "1.315",
+        "OD_mm": "33.4",
+        "WT_in": "0.358",
+        "WT_mm": "9.09"
+    },
+    {
+        "NPS": "1 1∕4",
+        "DN": "32",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "1.66",
+        "OD_mm": "42.2",
+        "WT_in": "0.065",
+        "WT_mm": "1.65"
+    },
+    {
+        "NPS": "1 1∕4",
+        "DN": "32",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "1.66",
+        "OD_mm": "42.2",
+        "WT_in": "0.109",
+        "WT_mm": "2.77"
+    },
+    {
+        "NPS": "1 1∕4",
+        "DN": "32",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "1.66",
+        "OD_mm": "42.2",
+        "WT_in": "0.117",
+        "WT_mm": "2.97"
+    },
+    {
+        "NPS": "1 1∕4",
+        "DN": "32",
+        "Identification": "STD",
+        "Schedule": "40",
+        "OD_in": "1.66",
+        "OD_mm": "42.2",
+        "WT_in": "0.14",
+        "WT_mm": "3.56"
+    },
+    {
+        "NPS": "1 1∕4",
+        "DN": "32",
+        "Identification": "XS",
+        "Schedule": "80",
+        "OD_in": "1.66",
+        "OD_mm": "42.2",
+        "WT_in": "0.191",
+        "WT_mm": "4.85"
+    },
+    {
+        "NPS": "1 1∕4",
+        "DN": "32",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "1.66",
+        "OD_mm": "42.2",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "1 1∕4",
+        "DN": "32",
+        "Identification": "XXS",
+        "Schedule": "…",
+        "OD_in": "1.66",
+        "OD_mm": "42.2",
+        "WT_in": "0.382",
+        "WT_mm": "9.7"
+    },
+    {
+        "NPS": "1 1∕2",
+        "DN": "40",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "1.9",
+        "OD_mm": "48.3",
+        "WT_in": "0.065",
+        "WT_mm": "1.65"
+    },
+    {
+        "NPS": "1 1∕2",
+        "DN": "40",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "1.9",
+        "OD_mm": "48.3",
+        "WT_in": "0.109",
+        "WT_mm": "2.77"
+    },
+    {
+        "NPS": "1 1∕2",
+        "DN": "40",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "1.9",
+        "OD_mm": "48.3",
+        "WT_in": "0.125",
+        "WT_mm": "3.18"
+    },
+    {
+        "NPS": "1 1∕2",
+        "DN": "40",
+        "Identification": "STD",
+        "Schedule": "40",
+        "OD_in": "1.9",
+        "OD_mm": "48.3",
+        "WT_in": "0.145",
+        "WT_mm": "3.68"
+    },
+    {
+        "NPS": "1 1∕2",
+        "DN": "40",
+        "Identification": "XS",
+        "Schedule": "80",
+        "OD_in": "1.9",
+        "OD_mm": "48.3",
+        "WT_in": "0.2",
+        "WT_mm": "5.08"
+    },
+    {
+        "NPS": "1 1∕2",
+        "DN": "40",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "1.9",
+        "OD_mm": "48.3",
+        "WT_in": "0.281",
+        "WT_mm": "7.14"
+    },
+    {
+        "NPS": "1 1∕2",
+        "DN": "40",
+        "Identification": "XXS",
+        "Schedule": "…",
+        "OD_in": "1.9",
+        "OD_mm": "48.3",
+        "WT_in": "0.4",
+        "WT_mm": "10.15"
+    },
+    {
+        "NPS": "2",
+        "DN": "50",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "2.375",
+        "OD_mm": "60.3",
+        "WT_in": "0.065",
+        "WT_mm": "1.65"
+    },
+    {
+        "NPS": "2",
+        "DN": "50",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "2.375",
+        "OD_mm": "60.3",
+        "WT_in": "0.083",
+        "WT_mm": "2.11"
+    },
+    {
+        "NPS": "2",
+        "DN": "50",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "2.375",
+        "OD_mm": "60.3",
+        "WT_in": "0.109",
+        "WT_mm": "2.77"
+    },
+    {
+        "NPS": "2",
+        "DN": "50",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "2.375",
+        "OD_mm": "60.3",
+        "WT_in": "0.125",
+        "WT_mm": "3.18"
+    },
+    {
+        "NPS": "2",
+        "DN": "50",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "2.375",
+        "OD_mm": "60.3",
+        "WT_in": "0.141",
+        "WT_mm": "3.58"
+    },
+    {
+        "NPS": "2",
+        "DN": "50",
+        "Identification": "STD",
+        "Schedule": "40",
+        "OD_in": "2.375",
+        "OD_mm": "60.3",
+        "WT_in": "0.154",
+        "WT_mm": "3.91"
+    },
+    {
+        "NPS": "2",
+        "DN": "50",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "2.375",
+        "OD_mm": "60.3",
+        "WT_in": "0.172",
+        "WT_mm": "4.37"
+    },
+    {
+        "NPS": "2",
+        "DN": "50",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "2.375",
+        "OD_mm": "60.3",
+        "WT_in": "0.188",
+        "WT_mm": "4.78"
+    },
+    {
+        "NPS": "2",
+        "DN": "50",
+        "Identification": "XS",
+        "Schedule": "80",
+        "OD_in": "2.375",
+        "OD_mm": "60.3",
+        "WT_in": "0.218",
+        "WT_mm": "5.54"
+    },
+    {
+        "NPS": "2",
+        "DN": "50",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "2.375",
+        "OD_mm": "60.3",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "2",
+        "DN": "50",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "2.375",
+        "OD_mm": "60.3",
+        "WT_in": "0.281",
+        "WT_mm": "7.14"
+    },
+    {
+        "NPS": "2",
+        "DN": "50",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "2.375",
+        "OD_mm": "60.3",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "2",
+        "DN": "50",
+        "Identification": "XXS",
+        "Schedule": "…",
+        "OD_in": "2.375",
+        "OD_mm": "60.3",
+        "WT_in": "0.436",
+        "WT_mm": "11.07"
+    },
+    {
+        "NPS": "2 1∕2",
+        "DN": "65",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "2.875",
+        "OD_mm": "73",
+        "WT_in": "0.083",
+        "WT_mm": "2.11"
+    },
+    {
+        "NPS": "2 1∕2",
+        "DN": "65",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "2.875",
+        "OD_mm": "73",
+        "WT_in": "0.109",
+        "WT_mm": "2.77"
+    },
+    {
+        "NPS": "2 1∕2",
+        "DN": "65",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "2.875",
+        "OD_mm": "73",
+        "WT_in": "0.12",
+        "WT_mm": "3.05"
+    },
+    {
+        "NPS": "2 1∕2",
+        "DN": "65",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "2.875",
+        "OD_mm": "73",
+        "WT_in": "0.125",
+        "WT_mm": "3.18"
+    },
+    {
+        "NPS": "2 1∕2",
+        "DN": "65",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "2.875",
+        "OD_mm": "73",
+        "WT_in": "0.141",
+        "WT_mm": "3.58"
+    },
+    {
+        "NPS": "2 1∕2",
+        "DN": "65",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "2.875",
+        "OD_mm": "73",
+        "WT_in": "0.156",
+        "WT_mm": "3.96"
+    },
+    {
+        "NPS": "2 1∕2",
+        "DN": "65",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "2.875",
+        "OD_mm": "73",
+        "WT_in": "0.172",
+        "WT_mm": "4.37"
+    },
+    {
+        "NPS": "2 1∕2",
+        "DN": "65",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "2.875",
+        "OD_mm": "73",
+        "WT_in": "0.188",
+        "WT_mm": "4.78"
+    },
+    {
+        "NPS": "2 1∕2",
+        "DN": "65",
+        "Identification": "STD",
+        "Schedule": "40",
+        "OD_in": "2.875",
+        "OD_mm": "73",
+        "WT_in": "0.203",
+        "WT_mm": "5.16"
+    },
+    {
+        "NPS": "2 1∕2",
+        "DN": "65",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "2.875",
+        "OD_mm": "73",
+        "WT_in": "0.216",
+        "WT_mm": "5.49"
+    },
+    {
+        "NPS": "2 1∕2",
+        "DN": "65",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "2.875",
+        "OD_mm": "73",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "2 1∕2",
+        "DN": "65",
+        "Identification": "XS",
+        "Schedule": "80",
+        "OD_in": "2.875",
+        "OD_mm": "73",
+        "WT_in": "0.276",
+        "WT_mm": "7.01"
+    },
+    {
+        "NPS": "2 1∕2",
+        "DN": "65",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "2.875",
+        "OD_mm": "73",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "2 1∕2",
+        "DN": "65",
+        "Identification": "XXS",
+        "Schedule": "…",
+        "OD_in": "2.875",
+        "OD_mm": "73",
+        "WT_in": "0.552",
+        "WT_mm": "14.02"
+    },
+    {
+        "NPS": "3",
+        "DN": "80",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "3.5",
+        "OD_mm": "88.9",
+        "WT_in": "0.083",
+        "WT_mm": "2.11"
+    },
+    {
+        "NPS": "3",
+        "DN": "80",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "3.5",
+        "OD_mm": "88.9",
+        "WT_in": "0.109",
+        "WT_mm": "2.77"
+    },
+    {
+        "NPS": "3",
+        "DN": "80",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "3.5",
+        "OD_mm": "88.9",
+        "WT_in": "0.12",
+        "WT_mm": "3.05"
+    },
+    {
+        "NPS": "3",
+        "DN": "80",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "3.5",
+        "OD_mm": "88.9",
+        "WT_in": "0.125",
+        "WT_mm": "3.18"
+    },
+    {
+        "NPS": "3",
+        "DN": "80",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "3.5",
+        "OD_mm": "88.9",
+        "WT_in": "0.141",
+        "WT_mm": "3.58"
+    },
+    {
+        "NPS": "3",
+        "DN": "80",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "3.5",
+        "OD_mm": "88.9",
+        "WT_in": "0.156",
+        "WT_mm": "3.96"
+    },
+    {
+        "NPS": "3",
+        "DN": "80",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "3.5",
+        "OD_mm": "88.9",
+        "WT_in": "0.172",
+        "WT_mm": "4.37"
+    },
+    {
+        "NPS": "3",
+        "DN": "80",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "3.5",
+        "OD_mm": "88.9",
+        "WT_in": "0.188",
+        "WT_mm": "4.78"
+    },
+    {
+        "NPS": "3",
+        "DN": "80",
+        "Identification": "STD",
+        "Schedule": "40",
+        "OD_in": "3.5",
+        "OD_mm": "88.9",
+        "WT_in": "0.216",
+        "WT_mm": "5.49"
+    },
+    {
+        "NPS": "3",
+        "DN": "80",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "3.5",
+        "OD_mm": "88.9",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "3",
+        "DN": "80",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "3.5",
+        "OD_mm": "88.9",
+        "WT_in": "0.281",
+        "WT_mm": "7.14"
+    },
+    {
+        "NPS": "3",
+        "DN": "80",
+        "Identification": "XS",
+        "Schedule": "80",
+        "OD_in": "3.5",
+        "OD_mm": "88.9",
+        "WT_in": "0.3",
+        "WT_mm": "7.62"
+    },
+    {
+        "NPS": "3",
+        "DN": "80",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "3.5",
+        "OD_mm": "88.9",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "3",
+        "DN": "80",
+        "Identification": "XXS",
+        "Schedule": "…",
+        "OD_in": "3.5",
+        "OD_mm": "88.9",
+        "WT_in": "0.6",
+        "WT_mm": "15.24"
+    },
+    {
+        "NPS": "31∕2",
+        "DN": "90",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "4",
+        "OD_mm": "101.6",
+        "WT_in": "0.083",
+        "WT_mm": "2.11"
+    },
+    {
+        "NPS": "31∕2",
+        "DN": "90",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "4",
+        "OD_mm": "101.6",
+        "WT_in": "0.109",
+        "WT_mm": "2.77"
+    },
+    {
+        "NPS": "31∕2",
+        "DN": "90",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "4",
+        "OD_mm": "101.6",
+        "WT_in": "0.12",
+        "WT_mm": "3.05"
+    },
+    {
+        "NPS": "31∕2",
+        "DN": "90",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "4",
+        "OD_mm": "101.6",
+        "WT_in": "0.125",
+        "WT_mm": "3.18"
+    },
+    {
+        "NPS": "31∕2",
+        "DN": "90",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "4",
+        "OD_mm": "101.6",
+        "WT_in": "0.141",
+        "WT_mm": "3.58"
+    },
+    {
+        "NPS": "31∕2",
+        "DN": "90",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "4",
+        "OD_mm": "101.6",
+        "WT_in": "0.156",
+        "WT_mm": "3.96"
+    },
+    {
+        "NPS": "31∕2",
+        "DN": "90",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "4",
+        "OD_mm": "101.6",
+        "WT_in": "0.172",
+        "WT_mm": "4.37"
+    },
+    {
+        "NPS": "31∕2",
+        "DN": "90",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "4",
+        "OD_mm": "101.6",
+        "WT_in": "0.188",
+        "WT_mm": "4.78"
+    },
+    {
+        "NPS": "31∕2",
+        "DN": "90",
+        "Identification": "STD",
+        "Schedule": "40",
+        "OD_in": "4",
+        "OD_mm": "101.6",
+        "WT_in": "0.226",
+        "WT_mm": "5.74"
+    },
+    {
+        "NPS": "31∕2",
+        "DN": "90",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "4",
+        "OD_mm": "101.6",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "31∕2",
+        "DN": "90",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "4",
+        "OD_mm": "101.6",
+        "WT_in": "0.281",
+        "WT_mm": "7.14"
+    },
+    {
+        "NPS": "31∕2",
+        "DN": "90",
+        "Identification": "XS",
+        "Schedule": "80",
+        "OD_in": "4",
+        "OD_mm": "101.6",
+        "WT_in": "0.318",
+        "WT_mm": "8.08"
+    },
+    {
+        "NPS": "4",
+        "DN": "100",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "4.5",
+        "OD_mm": "114.3",
+        "WT_in": "0.083",
+        "WT_mm": "2.11"
+    },
+    {
+        "NPS": "4",
+        "DN": "100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "4.5",
+        "OD_mm": "114.3",
+        "WT_in": "0.109",
+        "WT_mm": "2.77"
+    },
+    {
+        "NPS": "4",
+        "DN": "100",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "4.5",
+        "OD_mm": "114.3",
+        "WT_in": "0.12",
+        "WT_mm": "3.05"
+    },
+    {
+        "NPS": "4",
+        "DN": "100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "4.5",
+        "OD_mm": "114.3",
+        "WT_in": "0.125",
+        "WT_mm": "3.18"
+    },
+    {
+        "NPS": "4",
+        "DN": "100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "4.5",
+        "OD_mm": "114.3",
+        "WT_in": "0.141",
+        "WT_mm": "3.58"
+    },
+    {
+        "NPS": "4",
+        "DN": "100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "4.5",
+        "OD_mm": "114.3",
+        "WT_in": "0.156",
+        "WT_mm": "3.96"
+    },
+    {
+        "NPS": "4",
+        "DN": "100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "4.5",
+        "OD_mm": "114.3",
+        "WT_in": "0.172",
+        "WT_mm": "4.37"
+    },
+    {
+        "NPS": "4",
+        "DN": "100",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "4.5",
+        "OD_mm": "114.3",
+        "WT_in": "0.188",
+        "WT_mm": "4.78"
+    },
+    {
+        "NPS": "4",
+        "DN": "100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "4.5",
+        "OD_mm": "114.3",
+        "WT_in": "0.203",
+        "WT_mm": "5.16"
+    },
+    {
+        "NPS": "4",
+        "DN": "100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "4.5",
+        "OD_mm": "114.3",
+        "WT_in": "0.219",
+        "WT_mm": "5.56"
+    },
+    {
+        "NPS": "4",
+        "DN": "100",
+        "Identification": "STD",
+        "Schedule": "40",
+        "OD_in": "4.5",
+        "OD_mm": "114.3",
+        "WT_in": "0.237",
+        "WT_mm": "6.02"
+    },
+    {
+        "NPS": "4",
+        "DN": "100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "4.5",
+        "OD_mm": "114.3",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "4",
+        "DN": "100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "4.5",
+        "OD_mm": "114.3",
+        "WT_in": "0.281",
+        "WT_mm": "7.14"
+    },
+    {
+        "NPS": "4",
+        "DN": "100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "4.5",
+        "OD_mm": "114.3",
+        "WT_in": "0.312",
+        "WT_mm": "7.92"
+    },
+    {
+        "NPS": "4",
+        "DN": "100",
+        "Identification": "XS",
+        "Schedule": "80",
+        "OD_in": "4.5",
+        "OD_mm": "114.3",
+        "WT_in": "0.337",
+        "WT_mm": "8.56"
+    },
+    {
+        "NPS": "4",
+        "DN": "100",
+        "Identification": "…",
+        "Schedule": "120",
+        "OD_in": "4.5",
+        "OD_mm": "114.3",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "4",
+        "DN": "100",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "4.5",
+        "OD_mm": "114.3",
+        "WT_in": "0.531",
+        "WT_mm": "13.49"
+    },
+    {
+        "NPS": "4",
+        "DN": "100",
+        "Identification": "XXS",
+        "Schedule": "…",
+        "OD_in": "4.5",
+        "OD_mm": "114.3",
+        "WT_in": "0.674",
+        "WT_mm": "17.12"
+    },
+    {
+        "NPS": "5",
+        "DN": "125",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "5.563",
+        "OD_mm": "141.3",
+        "WT_in": "0.083",
+        "WT_mm": "2.11"
+    },
+    {
+        "NPS": "5",
+        "DN": "125",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "5.563",
+        "OD_mm": "141.3",
+        "WT_in": "0.109",
+        "WT_mm": "2.77"
+    },
+    {
+        "NPS": "5",
+        "DN": "125",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "5.563",
+        "OD_mm": "141.3",
+        "WT_in": "0.125",
+        "WT_mm": "3.18"
+    },
+    {
+        "NPS": "5",
+        "DN": "125",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "5.563",
+        "OD_mm": "141.3",
+        "WT_in": "0.134",
+        "WT_mm": "3.4"
+    },
+    {
+        "NPS": "5",
+        "DN": "125",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "5.563",
+        "OD_mm": "141.3",
+        "WT_in": "0.156",
+        "WT_mm": "3.96"
+    },
+    {
+        "NPS": "5",
+        "DN": "125",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "5.563",
+        "OD_mm": "141.3",
+        "WT_in": "0.188",
+        "WT_mm": "4.78"
+    },
+    {
+        "NPS": "5",
+        "DN": "125",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "5.563",
+        "OD_mm": "141.3",
+        "WT_in": "0.219",
+        "WT_mm": "5.56"
+    },
+    {
+        "NPS": "5",
+        "DN": "125",
+        "Identification": "STD",
+        "Schedule": "40",
+        "OD_in": "5.563",
+        "OD_mm": "141.3",
+        "WT_in": "0.258",
+        "WT_mm": "6.55"
+    },
+    {
+        "NPS": "5",
+        "DN": "125",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "5.563",
+        "OD_mm": "141.3",
+        "WT_in": "0.281",
+        "WT_mm": "7.14"
+    },
+    {
+        "NPS": "5",
+        "DN": "125",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "5.563",
+        "OD_mm": "141.3",
+        "WT_in": "0.312",
+        "WT_mm": "7.92"
+    },
+    {
+        "NPS": "5",
+        "DN": "125",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "5.563",
+        "OD_mm": "141.3",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "5",
+        "DN": "125",
+        "Identification": "XS",
+        "Schedule": "80",
+        "OD_in": "5.563",
+        "OD_mm": "141.3",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "5",
+        "DN": "125",
+        "Identification": "…",
+        "Schedule": "120",
+        "OD_in": "5.563",
+        "OD_mm": "141.3",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "5",
+        "DN": "125",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "5.563",
+        "OD_mm": "141.3",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "5",
+        "DN": "125",
+        "Identification": "XXS",
+        "Schedule": "…",
+        "OD_in": "5.563",
+        "OD_mm": "141.3",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.083",
+        "WT_mm": "2.11"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.109",
+        "WT_mm": "2.77"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.125",
+        "WT_mm": "3.18"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.134",
+        "WT_mm": "3.4"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.141",
+        "WT_mm": "3.58"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.156",
+        "WT_mm": "3.96"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.172",
+        "WT_mm": "4.37"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.188",
+        "WT_mm": "4.78"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.203",
+        "WT_mm": "5.16"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.219",
+        "WT_mm": "5.56"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "STD",
+        "Schedule": "40",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.28",
+        "WT_mm": "7.11"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.312",
+        "WT_mm": "7.92"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "XS",
+        "Schedule": "80",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.432",
+        "WT_mm": "10.97"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "120",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.719",
+        "WT_mm": "18.26"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "XXS",
+        "Schedule": "…",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.864",
+        "WT_mm": "21.95"
+    },
+    {
+        "NPS": "6",
+        "DN": "150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "6.625",
+        "OD_mm": "168.3",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.109",
+        "WT_mm": "2.77"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.125",
+        "WT_mm": "3.18"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.148",
+        "WT_mm": "3.76"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.156",
+        "WT_mm": "3.96"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.188",
+        "WT_mm": "4.78"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.203",
+        "WT_mm": "5.16"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.219",
+        "WT_mm": "5.56"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "20",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.277",
+        "WT_mm": "7.04"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.312",
+        "WT_mm": "7.92"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "STD",
+        "Schedule": "40",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.322",
+        "WT_mm": "8.18"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "60",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "XS",
+        "Schedule": "80",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "100",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.594",
+        "WT_mm": "15.09"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "120",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.719",
+        "WT_mm": "18.26"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "140",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "XXS",
+        "Schedule": "…",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "0.906",
+        "WT_mm": "23.01"
+    },
+    {
+        "NPS": "8",
+        "DN": "200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "8.625",
+        "OD_mm": "219.1",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.134",
+        "WT_mm": "3.4"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.156",
+        "WT_mm": "3.96"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.165",
+        "WT_mm": "4.19"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.188",
+        "WT_mm": "4.78"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.203",
+        "WT_mm": "5.16"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.219",
+        "WT_mm": "5.56"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "20",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.279",
+        "WT_mm": "7.09"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.307",
+        "WT_mm": "7.8"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "STD",
+        "Schedule": "40",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.365",
+        "WT_mm": "9.27"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "XS",
+        "Schedule": "60",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "80",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.594",
+        "WT_mm": "15.09"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "100",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.719",
+        "WT_mm": "18.26"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "120",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.844",
+        "WT_mm": "21.44"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "XXS",
+        "Schedule": "140",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "10",
+        "DN": "250",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "10.75",
+        "OD_mm": "273",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.156",
+        "WT_mm": "3.96"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.172",
+        "WT_mm": "4.37"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.18",
+        "WT_mm": "4.57"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.188",
+        "WT_mm": "4.78"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.203",
+        "WT_mm": "5.16"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.219",
+        "WT_mm": "5.56"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "20",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.281",
+        "WT_mm": "7.14"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.312",
+        "WT_mm": "7.92"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.33",
+        "WT_mm": "8.38"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "STD",
+        "Schedule": "…",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "40",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "XS",
+        "Schedule": "…",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "60",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "80",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "100",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.844",
+        "WT_mm": "21.44"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "XXS",
+        "Schedule": "120",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "140",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "12",
+        "DN": "300",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "12.75",
+        "OD_mm": "323.8",
+        "WT_in": "1.312",
+        "WT_mm": "33.32"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.156",
+        "WT_mm": "3.96"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.188",
+        "WT_mm": "4.78"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.203",
+        "WT_mm": "5.16"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.21",
+        "WT_mm": "5.33"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.219",
+        "WT_mm": "5.56"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.281",
+        "WT_mm": "7.14"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "20",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.312",
+        "WT_mm": "7.92"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "STD",
+        "Schedule": "30",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "40",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "XS",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "60",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.594",
+        "WT_mm": "15.09"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "80",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "100",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "120",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "1.094",
+        "WT_mm": "27.79"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "140",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "1.406",
+        "WT_mm": "35.71"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "2",
+        "WT_mm": "50.8"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "2.125",
+        "WT_mm": "53.98"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "2.2",
+        "WT_mm": "55.88"
+    },
+    {
+        "NPS": "14",
+        "DN": "350",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "14",
+        "OD_mm": "355.6",
+        "WT_in": "2.5",
+        "WT_mm": "63.5"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.165",
+        "WT_mm": "4.19"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.188",
+        "WT_mm": "4.78"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.203",
+        "WT_mm": "5.16"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.219",
+        "WT_mm": "5.56"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.281",
+        "WT_mm": "7.14"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "20",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.312",
+        "WT_mm": "7.92"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "STD",
+        "Schedule": "30",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "XS",
+        "Schedule": "40",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "60",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.656",
+        "WT_mm": "16.66"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "80",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.844",
+        "WT_mm": "21.44"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "100",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "1.031",
+        "WT_mm": "26.19"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "120",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "1.219",
+        "WT_mm": "30.96"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "140",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "1.438",
+        "WT_mm": "36.53"
+    },
+    {
+        "NPS": "16",
+        "DN": "400",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "16",
+        "OD_mm": "406.4",
+        "WT_in": "1.594",
+        "WT_mm": "40.49"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "0.165",
+        "WT_mm": "4.19"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "0.188",
+        "WT_mm": "4.78"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "0.219",
+        "WT_mm": "5.56"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "0.281",
+        "WT_mm": "7.14"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "20",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "0.312",
+        "WT_mm": "7.92"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "STD",
+        "Schedule": "…",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "XS",
+        "Schedule": "…",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "40",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "60",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "80",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "100",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "1.156",
+        "WT_mm": "29.36"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "120",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "1.375",
+        "WT_mm": "34.93"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "140",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "1.562",
+        "WT_mm": "39.67"
+    },
+    {
+        "NPS": "18",
+        "DN": "450",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "18",
+        "OD_mm": "457",
+        "WT_in": "1.781",
+        "WT_mm": "45.24"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "0.188",
+        "WT_mm": "4.78"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "0.219",
+        "WT_mm": "5.56"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "0.281",
+        "WT_mm": "7.14"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "0.312",
+        "WT_mm": "7.92"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "STD",
+        "Schedule": "20",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "XS",
+        "Schedule": "30",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "40",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "0.594",
+        "WT_mm": "15.09"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "60",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "80",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "1.031",
+        "WT_mm": "26.19"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "100",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "1.281",
+        "WT_mm": "32.54"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "1.312",
+        "WT_mm": "33.32"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "1.375",
+        "WT_mm": "34.93"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "120",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "1.5",
+        "WT_mm": "38.1"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "140",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "1.75",
+        "WT_mm": "44.45"
+    },
+    {
+        "NPS": "20",
+        "DN": "500",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "20",
+        "OD_mm": "508",
+        "WT_in": "1.969",
+        "WT_mm": "50.01"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "0.188",
+        "WT_mm": "4.78"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "0.219",
+        "WT_mm": "5.56"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "0.281",
+        "WT_mm": "7.14"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "0.312",
+        "WT_mm": "7.92"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "STD",
+        "Schedule": "20",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "XS",
+        "Schedule": "30",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "60",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "80",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "1.312",
+        "WT_mm": "33.32"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "100",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "1.375",
+        "WT_mm": "34.93"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "1.438",
+        "WT_mm": "36.53"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "1.5",
+        "WT_mm": "38.1"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "120",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "1.625",
+        "WT_mm": "41.28"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "140",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "1.875",
+        "WT_mm": "47.63"
+    },
+    {
+        "NPS": "22",
+        "DN": "550",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "22",
+        "OD_mm": "559",
+        "WT_in": "2.125",
+        "WT_mm": "53.98"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "0.218",
+        "WT_mm": "5.54"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "0.281",
+        "WT_mm": "7.14"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "0.312",
+        "WT_mm": "7.92"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "STD",
+        "Schedule": "20",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "XS",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "40",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "60",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "0.969",
+        "WT_mm": "24.61"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "80",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "1.219",
+        "WT_mm": "30.96"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "1.312",
+        "WT_mm": "33.32"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "1.375",
+        "WT_mm": "34.93"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "1.438",
+        "WT_mm": "36.53"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "1.5",
+        "WT_mm": "38.1"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "100",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "1.531",
+        "WT_mm": "38.89"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "1.562",
+        "WT_mm": "39.67"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "120",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "1.812",
+        "WT_mm": "46.02"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "140",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "2.062",
+        "WT_mm": "52.37"
+    },
+    {
+        "NPS": "24",
+        "DN": "600",
+        "Identification": "…",
+        "Schedule": "160",
+        "OD_in": "24",
+        "OD_mm": "610",
+        "WT_in": "2.344",
+        "WT_mm": "59.54"
+    },
+    {
+        "NPS": "26",
+        "DN": "650",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "26",
+        "OD_mm": "660",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "26",
+        "DN": "650",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "26",
+        "OD_mm": "660",
+        "WT_in": "0.281",
+        "WT_mm": "7.14"
+    },
+    {
+        "NPS": "26",
+        "DN": "650",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "26",
+        "OD_mm": "660",
+        "WT_in": "0.312",
+        "WT_mm": "7.92"
+    },
+    {
+        "NPS": "26",
+        "DN": "650",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "26",
+        "OD_mm": "660",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "26",
+        "DN": "650",
+        "Identification": "STD",
+        "Schedule": "…",
+        "OD_in": "26",
+        "OD_mm": "660",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "26",
+        "DN": "650",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "26",
+        "OD_mm": "660",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "26",
+        "DN": "650",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "26",
+        "OD_mm": "660",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "26",
+        "DN": "650",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "26",
+        "OD_mm": "660",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "26",
+        "DN": "650",
+        "Identification": "XS",
+        "Schedule": "20",
+        "OD_in": "26",
+        "OD_mm": "660",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "26",
+        "DN": "650",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "26",
+        "OD_mm": "660",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "26",
+        "DN": "650",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "26",
+        "OD_mm": "660",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "26",
+        "DN": "650",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "26",
+        "OD_mm": "660",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "26",
+        "DN": "650",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "26",
+        "OD_mm": "660",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "26",
+        "DN": "650",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "26",
+        "OD_mm": "660",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "26",
+        "DN": "650",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "26",
+        "OD_mm": "660",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "26",
+        "DN": "650",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "26",
+        "OD_mm": "660",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "26",
+        "DN": "650",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "26",
+        "OD_mm": "660",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "28",
+        "DN": "700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "28",
+        "OD_mm": "711",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "28",
+        "DN": "700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "28",
+        "OD_mm": "711",
+        "WT_in": "0.281",
+        "WT_mm": "7.14"
+    },
+    {
+        "NPS": "28",
+        "DN": "700",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "28",
+        "OD_mm": "711",
+        "WT_in": "0.312",
+        "WT_mm": "7.92"
+    },
+    {
+        "NPS": "28",
+        "DN": "700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "28",
+        "OD_mm": "711",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "28",
+        "DN": "700",
+        "Identification": "STD",
+        "Schedule": "…",
+        "OD_in": "28",
+        "OD_mm": "711",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "28",
+        "DN": "700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "28",
+        "OD_mm": "711",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "28",
+        "DN": "700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "28",
+        "OD_mm": "711",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "28",
+        "DN": "700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "28",
+        "OD_mm": "711",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "28",
+        "DN": "700",
+        "Identification": "XS",
+        "Schedule": "20",
+        "OD_in": "28",
+        "OD_mm": "711",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "28",
+        "DN": "700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "28",
+        "OD_mm": "711",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "28",
+        "DN": "700",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "28",
+        "OD_mm": "711",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "28",
+        "DN": "700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "28",
+        "OD_mm": "711",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "28",
+        "DN": "700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "28",
+        "OD_mm": "711",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "28",
+        "DN": "700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "28",
+        "OD_mm": "711",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "28",
+        "DN": "700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "28",
+        "OD_mm": "711",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "28",
+        "DN": "700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "28",
+        "OD_mm": "711",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "28",
+        "DN": "700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "28",
+        "OD_mm": "711",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "…",
+        "Schedule": "5",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "0.281",
+        "WT_mm": "7.14"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "0.312",
+        "WT_mm": "7.92"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "STD",
+        "Schedule": "…",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "XS",
+        "Schedule": "20",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "30",
+        "DN": "750",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "30",
+        "OD_mm": "762",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "0.281",
+        "WT_mm": "7.14"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "0.312",
+        "WT_mm": "7.92"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "STD",
+        "Schedule": "…",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "XS",
+        "Schedule": "20",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "…",
+        "Schedule": "40",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "32",
+        "DN": "800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "32",
+        "OD_mm": "813",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "0.281",
+        "WT_mm": "7.14"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "0.312",
+        "WT_mm": "7.92"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "STD",
+        "Schedule": "…",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "XS",
+        "Schedule": "20",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "…",
+        "Schedule": "40",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "34",
+        "DN": "850",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "34",
+        "OD_mm": "864",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "0.25",
+        "WT_mm": "6.35"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "0.281",
+        "WT_mm": "7.14"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "…",
+        "Schedule": "10",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "0.312",
+        "WT_mm": "7.92"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "STD",
+        "Schedule": "…",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "XS",
+        "Schedule": "20",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "…",
+        "Schedule": "30",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "…",
+        "Schedule": "40",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "36",
+        "DN": "900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "36",
+        "OD_mm": "914",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "38",
+        "DN": "950",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "38",
+        "OD_mm": "965",
+        "WT_in": "0.312",
+        "WT_mm": "7.92"
+    },
+    {
+        "NPS": "38",
+        "DN": "950",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "38",
+        "OD_mm": "965",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "38",
+        "DN": "950",
+        "Identification": "STD",
+        "Schedule": "…",
+        "OD_in": "38",
+        "OD_mm": "965",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "38",
+        "DN": "950",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "38",
+        "OD_mm": "965",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "38",
+        "DN": "950",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "38",
+        "OD_mm": "965",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "38",
+        "DN": "950",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "38",
+        "OD_mm": "965",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "38",
+        "DN": "950",
+        "Identification": "XS",
+        "Schedule": "…",
+        "OD_in": "38",
+        "OD_mm": "965",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "38",
+        "DN": "950",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "38",
+        "OD_mm": "965",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "38",
+        "DN": "950",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "38",
+        "OD_mm": "965",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "38",
+        "DN": "950",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "38",
+        "OD_mm": "965",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "38",
+        "DN": "950",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "38",
+        "OD_mm": "965",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "38",
+        "DN": "950",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "38",
+        "OD_mm": "965",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "38",
+        "DN": "950",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "38",
+        "OD_mm": "965",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "38",
+        "DN": "950",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "38",
+        "OD_mm": "965",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "38",
+        "DN": "950",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "38",
+        "OD_mm": "965",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "38",
+        "DN": "950",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "38",
+        "OD_mm": "965",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "38",
+        "DN": "950",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "38",
+        "OD_mm": "965",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "38",
+        "DN": "950",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "38",
+        "OD_mm": "965",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "38",
+        "DN": "950",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "38",
+        "OD_mm": "965",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "40",
+        "DN": "1000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "40",
+        "OD_mm": "1016",
+        "WT_in": "0.312",
+        "WT_mm": "7.92"
+    },
+    {
+        "NPS": "40",
+        "DN": "1000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "40",
+        "OD_mm": "1016",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "40",
+        "DN": "1000",
+        "Identification": "STD",
+        "Schedule": "…",
+        "OD_in": "40",
+        "OD_mm": "1016",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "40",
+        "DN": "1000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "40",
+        "OD_mm": "1016",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "40",
+        "DN": "1000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "40",
+        "OD_mm": "1016",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "40",
+        "DN": "1000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "40",
+        "OD_mm": "1016",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "40",
+        "DN": "1000",
+        "Identification": "XS",
+        "Schedule": "…",
+        "OD_in": "40",
+        "OD_mm": "1016",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "40",
+        "DN": "1000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "40",
+        "OD_mm": "1016",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "40",
+        "DN": "1000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "40",
+        "OD_mm": "1016",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "40",
+        "DN": "1000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "40",
+        "OD_mm": "1016",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "40",
+        "DN": "1000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "40",
+        "OD_mm": "1016",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "40",
+        "DN": "1000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "40",
+        "OD_mm": "1016",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "40",
+        "DN": "1000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "40",
+        "OD_mm": "1016",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "40",
+        "DN": "1000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "40",
+        "OD_mm": "1016",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "40",
+        "DN": "1000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "40",
+        "OD_mm": "1016",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "40",
+        "DN": "1000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "40",
+        "OD_mm": "1016",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "40",
+        "DN": "1000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "40",
+        "OD_mm": "1016",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "40",
+        "DN": "1000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "40",
+        "OD_mm": "1016",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "40",
+        "DN": "1000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "40",
+        "OD_mm": "1016",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "42",
+        "DN": "1050",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "42",
+        "OD_mm": "1067",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "42",
+        "DN": "1050",
+        "Identification": "STD",
+        "Schedule": "…",
+        "OD_in": "42",
+        "OD_mm": "1067",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "42",
+        "DN": "1050",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "42",
+        "OD_mm": "1067",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "42",
+        "DN": "1050",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "42",
+        "OD_mm": "1067",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "42",
+        "DN": "1050",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "42",
+        "OD_mm": "1067",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "42",
+        "DN": "1050",
+        "Identification": "XS",
+        "Schedule": "…",
+        "OD_in": "42",
+        "OD_mm": "1067",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "42",
+        "DN": "1050",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "42",
+        "OD_mm": "1067",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "42",
+        "DN": "1050",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "42",
+        "OD_mm": "1067",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "42",
+        "DN": "1050",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "42",
+        "OD_mm": "1067",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "42",
+        "DN": "1050",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "42",
+        "OD_mm": "1067",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "42",
+        "DN": "1050",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "42",
+        "OD_mm": "1067",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "42",
+        "DN": "1050",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "42",
+        "OD_mm": "1067",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "42",
+        "DN": "1050",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "42",
+        "OD_mm": "1067",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "42",
+        "DN": "1050",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "42",
+        "OD_mm": "1067",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "42",
+        "DN": "1050",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "42",
+        "OD_mm": "1067",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "42",
+        "DN": "1050",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "42",
+        "OD_mm": "1067",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "42",
+        "DN": "1050",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "42",
+        "OD_mm": "1067",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "42",
+        "DN": "1050",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "42",
+        "OD_mm": "1067",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "44",
+        "DN": "1100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "44",
+        "OD_mm": "1118",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "44",
+        "DN": "1100",
+        "Identification": "STD",
+        "Schedule": "…",
+        "OD_in": "44",
+        "OD_mm": "1118",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "44",
+        "DN": "1100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "44",
+        "OD_mm": "1118",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "44",
+        "DN": "1100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "44",
+        "OD_mm": "1118",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "44",
+        "DN": "1100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "44",
+        "OD_mm": "1118",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "44",
+        "DN": "1100",
+        "Identification": "XS",
+        "Schedule": "…",
+        "OD_in": "44",
+        "OD_mm": "1118",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "44",
+        "DN": "1100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "44",
+        "OD_mm": "1118",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "44",
+        "DN": "1100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "44",
+        "OD_mm": "1118",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "44",
+        "DN": "1100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "44",
+        "OD_mm": "1118",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "44",
+        "DN": "1100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "44",
+        "OD_mm": "1118",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "44",
+        "DN": "1100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "44",
+        "OD_mm": "1118",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "44",
+        "DN": "1100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "44",
+        "OD_mm": "1118",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "44",
+        "DN": "1100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "44",
+        "OD_mm": "1118",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "44",
+        "DN": "1100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "44",
+        "OD_mm": "1118",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "44",
+        "DN": "1100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "44",
+        "OD_mm": "1118",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "44",
+        "DN": "1100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "44",
+        "OD_mm": "1118",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "44",
+        "DN": "1100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "44",
+        "OD_mm": "1118",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "44",
+        "DN": "1100",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "44",
+        "OD_mm": "1118",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "46",
+        "DN": "1150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "46",
+        "OD_mm": "1168",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "46",
+        "DN": "1150",
+        "Identification": "STD",
+        "Schedule": "…",
+        "OD_in": "46",
+        "OD_mm": "1168",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "46",
+        "DN": "1150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "46",
+        "OD_mm": "1168",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "46",
+        "DN": "1150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "46",
+        "OD_mm": "1168",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "46",
+        "DN": "1150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "46",
+        "OD_mm": "1168",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "46",
+        "DN": "1150",
+        "Identification": "XS",
+        "Schedule": "…",
+        "OD_in": "46",
+        "OD_mm": "1168",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "46",
+        "DN": "1150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "46",
+        "OD_mm": "1168",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "46",
+        "DN": "1150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "46",
+        "OD_mm": "1168",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "46",
+        "DN": "1150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "46",
+        "OD_mm": "1168",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "46",
+        "DN": "1150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "46",
+        "OD_mm": "1168",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "46",
+        "DN": "1150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "46",
+        "OD_mm": "1168",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "46",
+        "DN": "1150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "46",
+        "OD_mm": "1168",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "46",
+        "DN": "1150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "46",
+        "OD_mm": "1168",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "46",
+        "DN": "1150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "46",
+        "OD_mm": "1168",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "46",
+        "DN": "1150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "46",
+        "OD_mm": "1168",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "46",
+        "DN": "1150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "46",
+        "OD_mm": "1168",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "46",
+        "DN": "1150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "46",
+        "OD_mm": "1168",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "46",
+        "DN": "1150",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "46",
+        "OD_mm": "1168",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "48",
+        "DN": "1200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "48",
+        "OD_mm": "1219",
+        "WT_in": "0.344",
+        "WT_mm": "8.74"
+    },
+    {
+        "NPS": "48",
+        "DN": "1200",
+        "Identification": "STD",
+        "Schedule": "…",
+        "OD_in": "48",
+        "OD_mm": "1219",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "48",
+        "DN": "1200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "48",
+        "OD_mm": "1219",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "48",
+        "DN": "1200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "48",
+        "OD_mm": "1219",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "48",
+        "DN": "1200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "48",
+        "OD_mm": "1219",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "48",
+        "DN": "1200",
+        "Identification": "XS",
+        "Schedule": "…",
+        "OD_in": "48",
+        "OD_mm": "1219",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "48",
+        "DN": "1200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "48",
+        "OD_mm": "1219",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "48",
+        "DN": "1200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "48",
+        "OD_mm": "1219",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "48",
+        "DN": "1200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "48",
+        "OD_mm": "1219",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "48",
+        "DN": "1200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "48",
+        "OD_mm": "1219",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "48",
+        "DN": "1200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "48",
+        "OD_mm": "1219",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "48",
+        "DN": "1200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "48",
+        "OD_mm": "1219",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "48",
+        "DN": "1200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "48",
+        "OD_mm": "1219",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "48",
+        "DN": "1200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "48",
+        "OD_mm": "1219",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "48",
+        "DN": "1200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "48",
+        "OD_mm": "1219",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "48",
+        "DN": "1200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "48",
+        "OD_mm": "1219",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "48",
+        "DN": "1200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "48",
+        "OD_mm": "1219",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "48",
+        "DN": "1200",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "48",
+        "OD_mm": "1219",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "52",
+        "DN": "1300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "52",
+        "OD_mm": "1321",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "52",
+        "DN": "1300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "52",
+        "OD_mm": "1321",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "52",
+        "DN": "1300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "52",
+        "OD_mm": "1321",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "52",
+        "DN": "1300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "52",
+        "OD_mm": "1321",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "52",
+        "DN": "1300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "52",
+        "OD_mm": "1321",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "52",
+        "DN": "1300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "52",
+        "OD_mm": "1321",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "52",
+        "DN": "1300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "52",
+        "OD_mm": "1321",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "52",
+        "DN": "1300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "52",
+        "OD_mm": "1321",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "52",
+        "DN": "1300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "52",
+        "OD_mm": "1321",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "52",
+        "DN": "1300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "52",
+        "OD_mm": "1321",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "52",
+        "DN": "1300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "52",
+        "OD_mm": "1321",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "52",
+        "DN": "1300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "52",
+        "OD_mm": "1321",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "52",
+        "DN": "1300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "52",
+        "OD_mm": "1321",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "52",
+        "DN": "1300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "52",
+        "OD_mm": "1321",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "52",
+        "DN": "1300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "52",
+        "OD_mm": "1321",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "52",
+        "DN": "1300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "52",
+        "OD_mm": "1321",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "52",
+        "DN": "1300",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "52",
+        "OD_mm": "1321",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "56",
+        "DN": "1400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "56",
+        "OD_mm": "1422",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "56",
+        "DN": "1400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "56",
+        "OD_mm": "1422",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "56",
+        "DN": "1400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "56",
+        "OD_mm": "1422",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "56",
+        "DN": "1400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "56",
+        "OD_mm": "1422",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "56",
+        "DN": "1400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "56",
+        "OD_mm": "1422",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "56",
+        "DN": "1400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "56",
+        "OD_mm": "1422",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "56",
+        "DN": "1400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "56",
+        "OD_mm": "1422",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "56",
+        "DN": "1400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "56",
+        "OD_mm": "1422",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "56",
+        "DN": "1400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "56",
+        "OD_mm": "1422",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "56",
+        "DN": "1400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "56",
+        "OD_mm": "1422",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "56",
+        "DN": "1400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "56",
+        "OD_mm": "1422",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "56",
+        "DN": "1400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "56",
+        "OD_mm": "1422",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "56",
+        "DN": "1400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "56",
+        "OD_mm": "1422",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "56",
+        "DN": "1400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "56",
+        "OD_mm": "1422",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "56",
+        "DN": "1400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "56",
+        "OD_mm": "1422",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "56",
+        "DN": "1400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "56",
+        "OD_mm": "1422",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "56",
+        "DN": "1400",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "56",
+        "OD_mm": "1422",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "60",
+        "DN": "1500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "60",
+        "OD_mm": "1524",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "60",
+        "DN": "1500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "60",
+        "OD_mm": "1524",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "60",
+        "DN": "1500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "60",
+        "OD_mm": "1524",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "60",
+        "DN": "1500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "60",
+        "OD_mm": "1524",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "60",
+        "DN": "1500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "60",
+        "OD_mm": "1524",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "60",
+        "DN": "1500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "60",
+        "OD_mm": "1524",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "60",
+        "DN": "1500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "60",
+        "OD_mm": "1524",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "60",
+        "DN": "1500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "60",
+        "OD_mm": "1524",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "60",
+        "DN": "1500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "60",
+        "OD_mm": "1524",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "60",
+        "DN": "1500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "60",
+        "OD_mm": "1524",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "60",
+        "DN": "1500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "60",
+        "OD_mm": "1524",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "60",
+        "DN": "1500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "60",
+        "OD_mm": "1524",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "60",
+        "DN": "1500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "60",
+        "OD_mm": "1524",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "60",
+        "DN": "1500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "60",
+        "OD_mm": "1524",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "60",
+        "DN": "1500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "60",
+        "OD_mm": "1524",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "60",
+        "DN": "1500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "60",
+        "OD_mm": "1524",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "60",
+        "DN": "1500",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "60",
+        "OD_mm": "1524",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "64",
+        "DN": "1600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "64",
+        "OD_mm": "1626",
+        "WT_in": "0.375",
+        "WT_mm": "9.53"
+    },
+    {
+        "NPS": "64",
+        "DN": "1600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "64",
+        "OD_mm": "1626",
+        "WT_in": "0.406",
+        "WT_mm": "10.31"
+    },
+    {
+        "NPS": "64",
+        "DN": "1600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "64",
+        "OD_mm": "1626",
+        "WT_in": "0.438",
+        "WT_mm": "11.13"
+    },
+    {
+        "NPS": "64",
+        "DN": "1600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "64",
+        "OD_mm": "1626",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "64",
+        "DN": "1600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "64",
+        "OD_mm": "1626",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "64",
+        "DN": "1600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "64",
+        "OD_mm": "1626",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "64",
+        "DN": "1600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "64",
+        "OD_mm": "1626",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "64",
+        "DN": "1600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "64",
+        "OD_mm": "1626",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "64",
+        "DN": "1600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "64",
+        "OD_mm": "1626",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "64",
+        "DN": "1600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "64",
+        "OD_mm": "1626",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "64",
+        "DN": "1600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "64",
+        "OD_mm": "1626",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "64",
+        "DN": "1600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "64",
+        "OD_mm": "1626",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "64",
+        "DN": "1600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "64",
+        "OD_mm": "1626",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "64",
+        "DN": "1600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "64",
+        "OD_mm": "1626",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "64",
+        "DN": "1600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "64",
+        "OD_mm": "1626",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "64",
+        "DN": "1600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "64",
+        "OD_mm": "1626",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "64",
+        "DN": "1600",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "64",
+        "OD_mm": "1626",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "68",
+        "DN": "1700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "68",
+        "OD_mm": "1727",
+        "WT_in": "0.469",
+        "WT_mm": "11.91"
+    },
+    {
+        "NPS": "68",
+        "DN": "1700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "68",
+        "OD_mm": "1727",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "68",
+        "DN": "1700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "68",
+        "OD_mm": "1727",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "68",
+        "DN": "1700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "68",
+        "OD_mm": "1727",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "68",
+        "DN": "1700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "68",
+        "OD_mm": "1727",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "68",
+        "DN": "1700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "68",
+        "OD_mm": "1727",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "68",
+        "DN": "1700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "68",
+        "OD_mm": "1727",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "68",
+        "DN": "1700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "68",
+        "OD_mm": "1727",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "68",
+        "DN": "1700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "68",
+        "OD_mm": "1727",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "68",
+        "DN": "1700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "68",
+        "OD_mm": "1727",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "68",
+        "DN": "1700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "68",
+        "OD_mm": "1727",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "68",
+        "DN": "1700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "68",
+        "OD_mm": "1727",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "68",
+        "DN": "1700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "68",
+        "OD_mm": "1727",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "68",
+        "DN": "1700",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "68",
+        "OD_mm": "1727",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "72",
+        "DN": "1800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "72",
+        "OD_mm": "1829",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "72",
+        "DN": "1800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "72",
+        "OD_mm": "1829",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "72",
+        "DN": "1800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "72",
+        "OD_mm": "1829",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "72",
+        "DN": "1800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "72",
+        "OD_mm": "1829",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "72",
+        "DN": "1800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "72",
+        "OD_mm": "1829",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "72",
+        "DN": "1800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "72",
+        "OD_mm": "1829",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "72",
+        "DN": "1800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "72",
+        "OD_mm": "1829",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "72",
+        "DN": "1800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "72",
+        "OD_mm": "1829",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "72",
+        "DN": "1800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "72",
+        "OD_mm": "1829",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "72",
+        "DN": "1800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "72",
+        "OD_mm": "1829",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "72",
+        "DN": "1800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "72",
+        "OD_mm": "1829",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "72",
+        "DN": "1800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "72",
+        "OD_mm": "1829",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "72",
+        "DN": "1800",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "72",
+        "OD_mm": "1829",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "76",
+        "DN": "1900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "76",
+        "OD_mm": "1930",
+        "WT_in": "0.5",
+        "WT_mm": "12.7"
+    },
+    {
+        "NPS": "76",
+        "DN": "1900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "76",
+        "OD_mm": "1930",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "76",
+        "DN": "1900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "76",
+        "OD_mm": "1930",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "76",
+        "DN": "1900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "76",
+        "OD_mm": "1930",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "76",
+        "DN": "1900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "76",
+        "OD_mm": "1930",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "76",
+        "DN": "1900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "76",
+        "OD_mm": "1930",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "76",
+        "DN": "1900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "76",
+        "OD_mm": "1930",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "76",
+        "DN": "1900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "76",
+        "OD_mm": "1930",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "76",
+        "DN": "1900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "76",
+        "OD_mm": "1930",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "76",
+        "DN": "1900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "76",
+        "OD_mm": "1930",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "76",
+        "DN": "1900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "76",
+        "OD_mm": "1930",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "76",
+        "DN": "1900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "76",
+        "OD_mm": "1930",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "76",
+        "DN": "1900",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "76",
+        "OD_mm": "1930",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    },
+    {
+        "NPS": "80",
+        "DN": "2000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "80",
+        "OD_mm": "2032",
+        "WT_in": "0.562",
+        "WT_mm": "14.27"
+    },
+    {
+        "NPS": "80",
+        "DN": "2000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "80",
+        "OD_mm": "2032",
+        "WT_in": "0.625",
+        "WT_mm": "15.88"
+    },
+    {
+        "NPS": "80",
+        "DN": "2000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "80",
+        "OD_mm": "2032",
+        "WT_in": "0.688",
+        "WT_mm": "17.48"
+    },
+    {
+        "NPS": "80",
+        "DN": "2000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "80",
+        "OD_mm": "2032",
+        "WT_in": "0.75",
+        "WT_mm": "19.05"
+    },
+    {
+        "NPS": "80",
+        "DN": "2000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "80",
+        "OD_mm": "2032",
+        "WT_in": "0.812",
+        "WT_mm": "20.62"
+    },
+    {
+        "NPS": "80",
+        "DN": "2000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "80",
+        "OD_mm": "2032",
+        "WT_in": "0.875",
+        "WT_mm": "22.23"
+    },
+    {
+        "NPS": "80",
+        "DN": "2000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "80",
+        "OD_mm": "2032",
+        "WT_in": "0.938",
+        "WT_mm": "23.83"
+    },
+    {
+        "NPS": "80",
+        "DN": "2000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "80",
+        "OD_mm": "2032",
+        "WT_in": "1",
+        "WT_mm": "25.4"
+    },
+    {
+        "NPS": "80",
+        "DN": "2000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "80",
+        "OD_mm": "2032",
+        "WT_in": "1.062",
+        "WT_mm": "26.97"
+    },
+    {
+        "NPS": "80",
+        "DN": "2000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "80",
+        "OD_mm": "2032",
+        "WT_in": "1.125",
+        "WT_mm": "28.58"
+    },
+    {
+        "NPS": "80",
+        "DN": "2000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "80",
+        "OD_mm": "2032",
+        "WT_in": "1.188",
+        "WT_mm": "30.18"
+    },
+    {
+        "NPS": "80",
+        "DN": "2000",
+        "Identification": "…",
+        "Schedule": "…",
+        "OD_in": "80",
+        "OD_mm": "2032",
+        "WT_in": "1.25",
+        "WT_mm": "31.75"
+    }
+]
